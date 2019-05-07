@@ -27,6 +27,6 @@ name.printName.call(name2);
 console.log("Plant corn");
 //setTimeout(function() {console.log("Water plant")}, 3000);
 
-console.log("Add fertilizer"); */
+console.log("Add fertilizer"); *///
 
 
